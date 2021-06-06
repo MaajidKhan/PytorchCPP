@@ -1,0 +1,3 @@
+/home/maajid/project_files/pytorch_june6/lesson4/build/CMakeFiles/rebuild_cache.dir
+/home/maajid/project_files/pytorch_june6/lesson4/build/CMakeFiles/edit_cache.dir
+/home/maajid/project_files/pytorch_june6/lesson4/build/CMakeFiles/main.dir
